@@ -20,7 +20,7 @@ minify:
   # minifyOutput: true
 
 languages:
-  en:
+  ar:
     languageName: "Arabic"
     languagedirection: rtl
     weight: 1
