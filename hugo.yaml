@@ -41,7 +41,7 @@ languages:
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
-  fr:
+  ar:
     languageName: ":fr:"
     weight: 2
     title: PaperModL2
