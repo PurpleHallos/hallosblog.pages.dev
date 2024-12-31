@@ -20,8 +20,8 @@ minify:
   # minifyOutput: true
 
 languages:
-  en:
-    languageName: "English"
+  ar:
+    languageName: "Arabic"
     weight: 1
     taxonomies:
       category: categories
