@@ -18,12 +18,12 @@ mainsections: ["posts", "papermod"]
 minify:
   disableXML: true
   # minifyOutput: true
+defaultContentLanguage: "ar"
 
 languages:
   ar:
     languageName: "Arabic"
     languagedirection: rtl
-    defaultContentLanguage: "ar"
     weight: 1
     taxonomies:
       category: categories
