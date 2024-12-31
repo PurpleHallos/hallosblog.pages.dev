@@ -22,6 +22,7 @@ minify:
 languages:
   en:
     languageName: "Arabic"
+    languagedirection: rtl
     weight: 1
     taxonomies:
       category: categories
