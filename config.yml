@@ -143,6 +143,7 @@ params:
       - name: Tags
         url: tags
 
+
   homeInfoParams:
     Title: "PaperMod's Demo"
     Content: >
