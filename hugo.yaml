@@ -20,7 +20,7 @@ minify:
   # minifyOutput: true
 
 languages:
-  ar:
+  en:
     languageName: "Arabic"
     weight: 1
     taxonomies:
