@@ -1,6 +1,7 @@
 ---
-title: "Archive"
+title: "الأرشيف"
 layout: "archives"
 # url: "/archives"
-summary: "archives"
+summary: "الأرشيف"
 ---
+
