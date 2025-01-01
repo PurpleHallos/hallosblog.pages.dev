@@ -76,11 +76,11 @@ params:
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+  buttons:
+    - name: الأرشيف
+      url: archives
+    - name: الوسوم
+      url: tags
 
   homeInfoParams:
     Title: "هلوسات"
