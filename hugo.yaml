@@ -31,13 +31,13 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
+        - name: الأرشيف
           url: archives
           weight: 5
-        - name: Search
+        - name: بحث
           url: search/
           weight: 10
-        - name: Tags
+        - name: الوسوم
           url: tags/
           weight: 10
 
